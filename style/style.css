@@ -43,7 +43,7 @@ body {
   position: relative;
 }
 .nombre h2 {
-  margin: 0.3rem 0 0;
+  margin: 0.3rem 0  ;
   font-size: 1.1rem;
   color: darkslategray;
   z-index: 0;
